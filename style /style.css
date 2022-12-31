@@ -1,0 +1,10 @@
+* {
+    padding: 15;
+}
+
+.contactForm {
+    display: flex;
+    flex-direction:column;
+    align-items: flex-start;
+    gap: 10px 15px;
+}
